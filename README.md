@@ -5,7 +5,7 @@
 
 <table align="center">
 <tr border="none">
-<td width="50%" align="left">
+<td width="505%" align="left">
   
 
 - 🧑‍🎓 I’m an Undergraduate at **ICBT**
