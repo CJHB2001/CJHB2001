@@ -8,7 +8,6 @@
 <td width="50%" align="left">
 
 
-  
 
 - 🧑‍🎓 I’m an Undergraduate at **ICBT**
 
